@@ -57,7 +57,7 @@ The template works perfectly on:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tail-ali-food-temp.git
+   git clone https://github.com/Ansari-Soman/tailwind-responsive-food-ui.git
    ```
    
 ## 🙌 Author
